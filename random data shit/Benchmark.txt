@@ -1,0 +1,216 @@
+28-12-2022, 23:57:39 csgo.exe benchmark completed, 24532 frames rendered in 109.016 s
+                     Average framerate  :  225.0 FPS
+                     Minimum framerate  :   23.5 FPS
+                     Maximum framerate  :  465.2 FPS
+                     1% low framerate   :   24.3 FPS
+                     0.1% low framerate :   22.6 FPS
+29-12-2022, 00:00:14 csgo.exe benchmark completed, 28175 frames rendered in 108.593 s
+                     Average framerate  :  259.4 FPS
+                     Minimum framerate  :   47.5 FPS
+                     Maximum framerate  :  555.4 FPS
+                     1% low framerate   :   49.7 FPS
+                     0.1% low framerate :   44.9 FPS
+29-12-2022, 00:02:43 csgo.exe benchmark completed, 28072 frames rendered in 108.485 s
+                     Average framerate  :  258.7 FPS
+                     Minimum framerate  :   45.1 FPS
+                     Maximum framerate  :  537.5 FPS
+                     1% low framerate   :   47.9 FPS
+                     0.1% low framerate :   43.6 FPS
+29-12-2022, 00:05:12 csgo.exe benchmark completed, 28152 frames rendered in 108.546 s
+                     Average framerate  :  259.3 FPS
+                     Minimum framerate  :   48.6 FPS
+                     Maximum framerate  :  551.4 FPS
+                     1% low framerate   :   50.6 FPS
+                     0.1% low framerate :   47.0 FPS
+29-12-2022, 00:07:46 csgo.exe benchmark completed, 27733 frames rendered in 108.672 s
+                     Average framerate  :  255.1 FPS
+                     Minimum framerate  :   42.6 FPS
+                     Maximum framerate  :  543.9 FPS
+                     1% low framerate   :   44.3 FPS
+                     0.1% low framerate :   41.1 FPS
+29-12-2022, 00:10:07 csgo.exe benchmark completed, 27132 frames rendered in 108.453 s
+                     Average framerate  :  250.1 FPS
+                     Minimum framerate  :   39.5 FPS
+                     Maximum framerate  :  499.4 FPS
+                     1% low framerate   :   41.9 FPS
+                     0.1% low framerate :   37.2 FPS
+29-12-2022, 00:12:20 csgo.exe benchmark completed, 27414 frames rendered in 108.593 s
+                     Average framerate  :  252.4 FPS
+                     Minimum framerate  :   42.3 FPS
+                     Maximum framerate  :  530.8 FPS
+                     1% low framerate   :   44.6 FPS
+                     0.1% low framerate :   40.9 FPS
+29-12-2022, 00:14:36 csgo.exe benchmark completed, 28681 frames rendered in 112.250 s
+                     Average framerate  :  255.5 FPS
+                     Minimum framerate  :   48.9 FPS
+                     Maximum framerate  :  539.4 FPS
+                     1% low framerate   :   51.1 FPS
+                     0.1% low framerate :   40.4 FPS
+29-12-2022, 00:18:34 csgo.exe benchmark completed, 27228 frames rendered in 108.938 s
+                     Average framerate  :  249.9 FPS
+                     Minimum framerate  :   33.7 FPS
+                     Maximum framerate  :  557.4 FPS
+                     1% low framerate   :   35.7 FPS
+                     0.1% low framerate :   32.5 FPS
+29-12-2022, 00:20:27 csgo.exe benchmark completed, 26828 frames rendered in 108.437 s
+                     Average framerate  :  247.4 FPS
+                     Minimum framerate  :   37.4 FPS
+                     Maximum framerate  :  521.7 FPS
+                     1% low framerate   :   39.9 FPS
+                     0.1% low framerate :   36.2 FPS
+29-12-2022, 00:22:44 csgo.exe benchmark completed, 26751 frames rendered in 108.703 s
+                     Average framerate  :  246.0 FPS
+                     Minimum framerate  :   36.3 FPS
+                     Maximum framerate  :  496.8 FPS
+                     1% low framerate   :   37.9 FPS
+                     0.1% low framerate :   34.6 FPS
+29-12-2022, 00:24:45 csgo.exe benchmark completed, 27385 frames rendered in 109.531 s
+                     Average framerate  :  250.0 FPS
+                     Minimum framerate  :   36.4 FPS
+                     Maximum framerate  :  541.8 FPS
+                     1% low framerate   :   38.5 FPS
+                     0.1% low framerate :   35.0 FPS
+29-12-2022, 00:26:52 csgo.exe benchmark completed, 25930 frames rendered in 109.218 s
+                     Average framerate  :  237.4 FPS
+                     Minimum framerate  :   31.1 FPS
+                     Maximum framerate  :  499.9 FPS
+                     1% low framerate   :   32.6 FPS
+                     0.1% low framerate :   30.3 FPS
+29-12-2022, 00:29:08 csgo.exe benchmark completed, 25699 frames rendered in 108.985 s
+                     Average framerate  :  235.8 FPS
+                     Minimum framerate  :   30.4 FPS
+                     Maximum framerate  :  495.5 FPS
+                     1% low framerate   :   31.8 FPS
+                     0.1% low framerate :   29.3 FPS
+29-12-2022, 00:31:06 csgo.exe benchmark completed, 25223 frames rendered in 108.859 s
+                     Average framerate  :  231.7 FPS
+                     Minimum framerate  :   30.2 FPS
+                     Maximum framerate  :  506.3 FPS
+                     1% low framerate   :   31.8 FPS
+                     0.1% low framerate :   28.4 FPS
+29-12-2022, 00:33:21 csgo.exe benchmark completed, 24942 frames rendered in 108.719 s
+                     Average framerate  :  229.4 FPS
+                     Minimum framerate  :   26.5 FPS
+                     Maximum framerate  :  485.7 FPS
+                     1% low framerate   :   28.1 FPS
+                     0.1% low framerate :   25.4 FPS
+29-12-2022, 00:35:53 csgo.exe benchmark completed, 24817 frames rendered in 108.641 s
+                     Average framerate  :  228.4 FPS
+                     Minimum framerate  :   25.0 FPS
+                     Maximum framerate  :  488.1 FPS
+                     1% low framerate   :   26.3 FPS
+                     0.1% low framerate :   23.9 FPS
+29-12-2022, 00:39:10 csgo.exe benchmark completed, 25093 frames rendered in 108.469 s
+                     Average framerate  :  231.3 FPS
+                     Minimum framerate  :   26.9 FPS
+                     Maximum framerate  :  533.0 FPS
+                     1% low framerate   :   28.3 FPS
+                     0.1% low framerate :   26.1 FPS
+29-12-2022, 00:41:42 csgo.exe benchmark completed, 23595 frames rendered in 108.812 s
+                     Average framerate  :  216.8 FPS
+                     Minimum framerate  :   22.6 FPS
+                     Maximum framerate  :  439.8 FPS
+                     1% low framerate   :   23.9 FPS
+                     0.1% low framerate :   21.7 FPS
+29-12-2022, 00:43:34 csgo.exe benchmark completed, 23780 frames rendered in 109.485 s
+                     Average framerate  :  217.1 FPS
+                     Minimum framerate  :   23.6 FPS
+                     Maximum framerate  :  439.0 FPS
+                     1% low framerate   :   24.5 FPS
+                     0.1% low framerate :   22.9 FPS
+29-12-2022, 00:45:30 csgo.exe benchmark completed, 24749 frames rendered in 112.219 s
+                     Average framerate  :  220.5 FPS
+                     Minimum framerate  :   23.3 FPS
+                     Maximum framerate  :  445.4 FPS
+                     1% low framerate   :   25.0 FPS
+                     0.1% low framerate :   22.5 FPS
+29-12-2022, 00:48:07 csgo.exe benchmark completed, 30282 frames rendered in 109.172 s
+                     Average framerate  :  277.3 FPS
+                     Minimum framerate  :   86.3 FPS
+                     Maximum framerate  :  526.2 FPS
+                     1% low framerate   :   86.1 FPS
+                     0.1% low framerate :    4.9 FPS
+29-12-2022, 00:50:00 csgo.exe benchmark completed, 30195 frames rendered in 109.500 s
+                     Average framerate  :  275.7 FPS
+                     Minimum framerate  :   81.0 FPS
+                     Maximum framerate  :  508.9 FPS
+                     1% low framerate   :   83.7 FPS
+                     0.1% low framerate :   63.2 FPS
+29-12-2022, 00:51:53 csgo.exe benchmark completed, 29859 frames rendered in 108.469 s
+                     Average framerate  :  275.2 FPS
+                     Minimum framerate  :   81.0 FPS
+                     Maximum framerate  :  521.5 FPS
+                     1% low framerate   :   84.3 FPS
+                     0.1% low framerate :   62.6 FPS
+29-12-2022, 00:54:32 csgo.exe benchmark completed, 30512 frames rendered in 111.000 s
+                     Average framerate  :  274.8 FPS
+                     Minimum framerate  :   61.9 FPS
+                     Maximum framerate  :  516.3 FPS
+                     1% low framerate   :   65.0 FPS
+                     0.1% low framerate :   59.5 FPS
+29-12-2022, 00:56:24 csgo.exe benchmark completed, 28691 frames rendered in 108.609 s
+                     Average framerate  :  264.1 FPS
+                     Minimum framerate  :   60.2 FPS
+                     Maximum framerate  :  506.3 FPS
+                     1% low framerate   :   62.3 FPS
+                     0.1% low framerate :   47.8 FPS
+29-12-2022, 00:58:24 csgo.exe benchmark completed, 26989 frames rendered in 108.672 s
+                     Average framerate  :  248.3 FPS
+                     Minimum framerate  :   60.5 FPS
+                     Maximum framerate  :  517.6 FPS
+                     1% low framerate   :   63.1 FPS
+                     0.1% low framerate :   58.0 FPS
+29-12-2022, 01:01:28 csgo.exe benchmark completed, 32339 frames rendered in 116.109 s
+                     Average framerate  :  278.5 FPS
+                     Minimum framerate  :   57.2 FPS
+                     Maximum framerate  :  527.7 FPS
+                     1% low framerate   :   59.6 FPS
+                     0.1% low framerate :   55.1 FPS
+29-12-2022, 01:03:21 csgo.exe benchmark completed, 29051 frames rendered in 108.718 s
+                     Average framerate  :  267.2 FPS
+                     Minimum framerate  :   56.3 FPS
+                     Maximum framerate  :  526.6 FPS
+                     1% low framerate   :   58.4 FPS
+                     0.1% low framerate :   53.7 FPS
+29-12-2022, 01:05:25 csgo.exe benchmark completed, 29915 frames rendered in 110.140 s
+                     Average framerate  :  271.6 FPS
+                     Minimum framerate  :   58.4 FPS
+                     Maximum framerate  :  527.6 FPS
+                     1% low framerate   :   61.0 FPS
+                     0.1% low framerate :   47.9 FPS
+29-12-2022, 01:07:59 csgo.exe benchmark completed, 29082 frames rendered in 108.906 s
+                     Average framerate  :  267.0 FPS
+                     Minimum framerate  :   40.3 FPS
+                     Maximum framerate  :  519.8 FPS
+                     1% low framerate   :   42.6 FPS
+                     0.1% low framerate :   38.3 FPS
+29-12-2022, 01:10:03 csgo.exe benchmark completed, 29128 frames rendered in 108.907 s
+                     Average framerate  :  267.4 FPS
+                     Minimum framerate  :   44.5 FPS
+                     Maximum framerate  :  532.7 FPS
+                     1% low framerate   :   45.9 FPS
+                     0.1% low framerate :   43.0 FPS
+29-12-2022, 01:12:02 csgo.exe benchmark completed, 29314 frames rendered in 110.203 s
+                     Average framerate  :  266.0 FPS
+                     Minimum framerate  :   43.6 FPS
+                     Maximum framerate  :  525.6 FPS
+                     1% low framerate   :   46.5 FPS
+                     0.1% low framerate :   42.9 FPS
+29-12-2022, 01:14:34 csgo.exe benchmark completed, 27929 frames rendered in 108.641 s
+                     Average framerate  :  257.0 FPS
+                     Minimum framerate  :   32.3 FPS
+                     Maximum framerate  :  498.6 FPS
+                     1% low framerate   :   33.4 FPS
+                     0.1% low framerate :   31.4 FPS
+29-12-2022, 01:16:29 csgo.exe benchmark completed, 28443 frames rendered in 109.828 s
+                     Average framerate  :  258.9 FPS
+                     Minimum framerate  :   30.0 FPS
+                     Maximum framerate  :  502.3 FPS
+                     1% low framerate   :   31.5 FPS
+                     0.1% low framerate :   28.8 FPS
+29-12-2022, 01:18:27 csgo.exe benchmark completed, 28222 frames rendered in 108.796 s
+                     Average framerate  :  259.4 FPS
+                     Minimum framerate  :   30.4 FPS
+                     Maximum framerate  :  516.3 FPS
+                     1% low framerate   :   31.9 FPS
+                     0.1% low framerate :   29.3 FPS
