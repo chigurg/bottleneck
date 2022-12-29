@@ -7,17 +7,15 @@ en een langere over bottlenecks en fps in csgo in het algemeen (voor high perfor
 ## de theorie
 Belangrijkste is eigenlijk deze afweging. CPU geeft u een absoluut plafond voor FPS dat in theorie onafhankelijk is van resolutie. Van de GPU is er een inverse relatie tussen FPS en het aantal pixels dat hij moet renderen (pixelcount). Kort door de bocht is dit ook zo voor andere graphics settings: GPU moet werken voor alles wat gerenderd moet worden, maar de CPU werkt eigenlijk even hard per frame, ongeacht de inhoud (*eigenlijk niet heus maar om het s1mple te houden*).
 
-                3kliks
+![3kliks](images/3kliks.png)
 
 Dit betekend dus dat, in een experiment waar je je FPS meet met een steeds lagere resolutie, je eerst je FPS zou zien stijgen met elke keer dat je resolutie daalt. Dan, wanneer je je FPS plafond van de CPU hit, stopt je FPS met stijgen. Op de figuur is dit het punt waar de blauwe en oranje lijn elkaar kruisen.
 
 In theorie is dit het punt waar je voor u combinatie van GPU, CPU en settings je resolutie moet kiezen, een goed equilibrium. Er is hier geen "*bottleneck*" die de performance van een van je componenten ongebruikt laat.
 
-        DATA
+Dit was mijn eerste bruikbare data (dacht ik)
 
-Dit is mijn rauwe data, met redelijk wat bullshit tussen, maar is om elke kleine verandering die ik maakte wou bijhouden. 
-
-        relevant
+![data](images/relevant.jpg)
 
 Een ding dat ik er al uit leerde is dat (*voor mijn settings, componenten en resolutie*) het verschil tussen fullscreen en fullscreen windowed geen impact heeft op FPS. Hier zag ik vroeger een afweging tussen een klein beetje minder FPS, maar veel makkelijker switchen tussen windows en dat alt+tabben veel minder erg is. In de realiteit **voelt** het nog smoother, maar kan perfect ook placebo zijn. Het zou ook kunnen dat er iets gebeurt in fullscreen (op het driverniveau, iets gsync-achtig?) dat niet gebeurt in windowed. Verschil is niet merkbaar in comp games in ieder geval.
 
@@ -26,22 +24,20 @@ Hetzelfde geldt eigenlijk voor de native resolutie (de resolutie waar mijn displ
 ## off the rails
 oke hier keek ik dus effectief naar mijn data in grafiek vorm, en zag dat er waarschijnlijk een meetfout gebeurt was op de resoluties 720p en 1128x634 (F tier resolutie btw)
                
-                per resolutie
+![per resolutie](images/per%20resolutie.jpg)
 
 Hier begon mijn tocht naar betere data. Het zou veel te lang duren om uit te leggen wat er allemaal beter aan is, maar er is meer, beter getimed, beter gecalibreerd, en toch met een enkel paar meetfouten (zie excel file, waarschijnlijk door windows update). Het is wel goed dat ik deze gedaan heb, want mijn resultaten zijn compleet anders.
 
 
 ## resultaten
-                fps res
-
+![fps per resolutie met nieuwe data](images/fpsres.jpg)
 Hier zijn de echte resultaten dus, eigenlijk vrij saai. Je ziet gewoon dat hogere resolutie -> lagere framerate. De CPU bottleneck blijft schijnbaar uit. Je ziet dit nog het beste als je de framerates plot volgens pixelcount:
 
-                fps pixelcount
-
+![Alt text](images/fpspixelcount.jpg)
 
 Hetzelfde zien we ook bij de 1% low frames. Dit is eigenlijk een best belangrijke metric omdat het eigenlijk aangeeft hoe hard je stutters zult ervaren, als je 1% lows rond de 90 fps zitten voel je meestal niets. Natuurlijk heb je dan echt een beast gpu nodig (of speel je op 440p lol).
 
-                1percentlows
+![Alt text](images/1percentlow.jpg)
 
 ---
 
