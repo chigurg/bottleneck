@@ -48,6 +48,10 @@ We leerden dat ik mij geen zorgen moet maken over de fullscreen of windowed opti
 
 In praktijk zien we dus dat dit equilibrium-punt enkel handig is voor computers die een belachelijk beefed up GPU hebben tegenover de CPU, of gewoon in de top performance tier zitten overall. Ik moet waarschijnlijk gewoon mijn geld sparen voor een monitor, of een cadeautje voor mijn mama. 
 
+Met andere woorden: voor mij ziet de grafiek er zo uit:
+![Alt text](images/3kliksupdate.png)
+:(
+
 Meer onderzoek nodig heeft iemand een rx590 pls?
 
 Danku om te luisteren naar mijn presentatie :)
