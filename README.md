@@ -26,7 +26,7 @@ oke hier keek ik dus effectief naar mijn data in grafiek vorm, en zag dat er waa
                
 ![per resolutie](images/per%20resolutie.jpg)
 
-Hier begon mijn tocht naar betere data. Het zou veel te lang duren om uit te leggen wat er allemaal beter aan is, maar er is meer, beter getimed, beter gecalibreerd, en toch met een enkel paar meetfouten (zie excel file, waarschijnlijk door windows update). Het is wel goed dat ik deze gedaan heb, want mijn resultaten zijn compleet anders.
+Hier begon mijn tocht naar betere data. Het zou veel te lang duren om uit te leggen wat er allemaal beter aan is, maar er is meer, beter getimed, beter gecalibreerd, en toch met een enkel paar meetfouten (zie excel file [HIER](BOTTLENECK.xlsx), waarschijnlijk door windows update). Het is wel goed dat ik deze gedaan heb, want mijn resultaten zijn compleet anders.
 
 
 ## resultaten
