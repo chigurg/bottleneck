@@ -39,6 +39,8 @@ Hetzelfde zien we ook bij de 1% low frames. Dit is eigenlijk een best belangrijk
 
 ![Alt text](images/1percentlow.jpg)
 
+Al bij al is het dus duidelijk dat ik mijn CPU limiet niet bereik. Mijn arme rx580 is dus de bottleneck. Niets om verbaasd te zijn.
+
 ---
 
 ## conclusie
